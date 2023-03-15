@@ -1,0 +1,20 @@
+C:\Users\Mili\OneDrive\Desktop\ProiectPoo\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Mili\OneDrive\Desktop\ProiectPoo\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Mili\OneDrive\Desktop\ProiectPoo\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Mili\OneDrive\Desktop\ProiectPoo\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Mili\OneDrive\Desktop\ProiectPoo\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Mili\OneDrive\Desktop\ProiectPoo\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Mili\OneDrive\Desktop\ProiectPoo\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Mili\OneDrive\Desktop\ProiectPoo\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Mili\OneDrive\Desktop\ProiectPoo\Calculator\Calculator\obj\Debug\Calculator.Calculator_Form.resources
+C:\Users\Mili\OneDrive\Desktop\ProiectPoo\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Mili\OneDrive\Desktop\ \ProiectPoo\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Mili\OneDrive\Desktop\ \ProiectPoo\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Mili\OneDrive\Desktop\ \ProiectPoo\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Mili\OneDrive\Desktop\ \ProiectPoo\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Mili\OneDrive\Desktop\ \ProiectPoo\Calculator\Calculator\obj\Debug\Calculator.Calculator_Form.resources
+C:\Users\Mili\OneDrive\Desktop\ \ProiectPoo\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Mili\OneDrive\Desktop\ \ProiectPoo\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Mili\OneDrive\Desktop\ \ProiectPoo\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Mili\OneDrive\Desktop\ \ProiectPoo\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Mili\OneDrive\Desktop\ \ProiectPoo\Calculator\Calculator\obj\Debug\Calculator.pdb
