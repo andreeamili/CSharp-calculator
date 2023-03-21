@@ -1,0 +1,2 @@
+## What my application can do
+The math calculator is capable of performing calculations of both basic and trigonometric mathematical expressions, which include addition, subtraction, multiplication, division, radical, sine, cosine, tangent, decimal numbers, use of parentheses, negative numbers (only works if they are not performed multiplications and divisions with them), as well as displaying a history of previous calculations from which we can select a specific expression to reuse. It also has the possibility of deleting the expression as well as the permanent history.
